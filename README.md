@@ -13,4 +13,5 @@ Repository for apply my Python apprenticeship
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/6efe4246.md)
 - [Castings](python/c87b32ef.md)
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/c87b32ef.md)
-	
+- [Slicing Strings](python/fb3d63b4.py)
+	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/fb3d63b4.md)

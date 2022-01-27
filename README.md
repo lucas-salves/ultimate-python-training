@@ -27,3 +27,6 @@ Repository for apply my Python apprenticeship
 
 - [Format](python/d91677e9.py)
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/d91677e9.md)
+	
+- [List](python/c9e7b0a1.py)
+	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/c9e7b0a1.md)

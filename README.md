@@ -9,3 +9,6 @@ Repository for apply my Python apprenticeship
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/e34e4392.md)
 - [Global variables](python/44b7b3e0.py)
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/44b7b3e0.md)
+- [Numbers data types](python/6efe4246.py)
+	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/6efe4246.md)
+

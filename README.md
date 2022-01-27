@@ -24,4 +24,6 @@ Repository for apply my Python apprenticeship
 	
 - [Modify String methods](python/9172e134.py)
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/9172e134.md)
-	
+
+- [Format](python/d91677e9.py)
+	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/d91677e9.md)

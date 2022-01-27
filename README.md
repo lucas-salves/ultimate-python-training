@@ -22,6 +22,6 @@ Repository for apply my Python apprenticeship
 - [Slicing Strings](python/fb3d63b4.py)
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/fb3d63b4.md)
 	
--[Modify String methods](python/9172e134.py)
+- [Modify String methods](python/9172e134.py)
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/9172e134.md)
 	

@@ -36,3 +36,5 @@ Repository for apply my Python apprenticeship
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/5a2145e8.md)	
 - [Insert items in the list](python/00a1aed4.py)
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/00a1aed4.md)
+- [Remove list items](python/bef41900.py)
+	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/bef41900.md)

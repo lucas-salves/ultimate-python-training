@@ -30,3 +30,5 @@ Repository for apply my Python apprenticeship
 	
 - [List](python/c9e7b0a1.py)
 	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/c9e7b0a1.md)
+- [Access List items](python/f655ce1d.py)
+	- [TIL](https://github.com/lucas-salves/ultimateTil/blob/master/python/f655ce1d.md)
